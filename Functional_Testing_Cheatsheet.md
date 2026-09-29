@@ -22,6 +22,8 @@ Testing that verifies **what the system does** — each function/feature is chec
 Requirement Analysis → Test Planning → Test Case Development →
 Test Environment Setup → Test Execution → Test Cycle Closure
 ```
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/d19a66fb-1106-4914-86ed-33e90ca968f1" />
+
 
 | Phase | Key Activity |
 | :---- | :---- |
