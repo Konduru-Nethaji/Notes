@@ -57,6 +57,8 @@ Test Environment Setup → Test Execution → Test Cycle Closure
 | Agile/Scrum | Iterative sprints; testing happens continuously within each sprint |
 | Spiral | Risk-driven, iterative with repeated prototyping and testing |
 
+<img width="1395" height="1621" alt="image" src="https://github.com/user-attachments/assets/a6810080-b067-49cd-b2ee-f5006f18ad5b" />
+
 ---
 
 ## 5\. Levels of Testing
